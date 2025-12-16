@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am a UC San Diego Computer Science Student and currently pursuing a Bachelors. 
+
+Email: jvillan314@gmail.com
+
+You can find my portfolio in this link: [My Portfolio](https://jamesvillanueva-dev.github.io/Portfolio/)
+
+Currently looking for interships. 
 <!--
 **JamesVillanueva-Dev/JamesVillanueva-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
