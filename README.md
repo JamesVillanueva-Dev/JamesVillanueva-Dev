@@ -4,7 +4,7 @@ I am a UC San Diego Computer Science Student and currently pursuing a Bachelors.
 
 Email: jvillan314@gmail.com
 
-I am very familiar with C and Java. 
+I am most familiar with C and Java. 
 
 You can find my portfolio in this link: [My Portfolio](https://jamesvillanueva-dev.github.io/Portfolio/)
 
