@@ -24,7 +24,8 @@ I'm currently pursuing a **B.S. in Computer Science** at **UC San Diego**. I enj
 ---
  
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamesvillanueva-dev&show_icons=true&theme=default&hide_title=false)
+
+![Metrics](./metrics.svg)
  
 </div>
 <!--
