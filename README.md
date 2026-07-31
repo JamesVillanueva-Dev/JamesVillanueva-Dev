@@ -1,5 +1,5 @@
 <div align="center">
-![Welcome](./welcome.svg)
+![Welcome](./Welcome.svg)
  
 # Hi there, I'm James 👋
  
@@ -9,19 +9,14 @@
 [![Email](https://img.shields.io/badge/Email-jvillan314%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvillan314@gmail.com)
  
 </div>
----
+
  
 ### 🎓 About Me
  
 I'm currently pursuing a **B.S. in Computer Science** at **UC San Diego**. I enjoy building projects that let me apply what I'm learning in the classroom to real-world problems, and I'm always looking for ways to grow as a developer.
  
 🔭 **Currently looking for internships** — feel free to reach out if you think I'd be a good fit!
- 
-### 🛠️ Languages & Tools
- 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
- 
+
 ### 📫 Get In Touch
  
 - 📧 Email: [jvillan314@gmail.com](mailto:jvillan314@gmail.com)
