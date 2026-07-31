@@ -1,4 +1,4 @@
-![Welcome](./welcome.svg)
+![Welcome](./Welcome.svg)
 
 ## Hi there, I'm James 👋
 
