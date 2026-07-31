@@ -1,5 +1,5 @@
 <div align="center">
-![Welcome](./Welcome.svg)
+<img src="./Welcome.svg" alt="Welcome" />
  
 # Hi there, I'm James 👋
  
