@@ -17,7 +17,7 @@ I'm currently pursuing a **B.S. in Computer Science** at **UC San Diego**. I enj
  
 **Currently looking for internships** — feel free to reach out if you think I'd be a good fit!
 
-### 📫 Get In Touch
+###  Get In Touch
  
 - Email: [jvillan314@gmail.com](mailto:jvillan314@gmail.com)
 - Portfolio: [jamesvillanueva-dev.github.io/Portfolio](https://jamesvillanueva-dev.github.io/Portfolio/)
