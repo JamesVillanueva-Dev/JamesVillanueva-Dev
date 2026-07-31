@@ -11,16 +11,16 @@
 </div>
 
  
-### 🎓 About Me
+###  About Me
  
 I'm currently pursuing a **B.S. in Computer Science** at **UC San Diego**. I enjoy building projects that let me apply what I'm learning in the classroom to real-world problems, and I'm always looking for ways to grow as a developer.
  
-🔭 **Currently looking for internships** — feel free to reach out if you think I'd be a good fit!
+**Currently looking for internships** — feel free to reach out if you think I'd be a good fit!
 
 ### 📫 Get In Touch
  
-- 📧 Email: [jvillan314@gmail.com](mailto:jvillan314@gmail.com)
-- 💼 Portfolio: [jamesvillanueva-dev.github.io/Portfolio](https://jamesvillanueva-dev.github.io/Portfolio/)
+- Email: [jvillan314@gmail.com](mailto:jvillan314@gmail.com)
+- Portfolio: [jamesvillanueva-dev.github.io/Portfolio](https://jamesvillanueva-dev.github.io/Portfolio/)
 ---
  
 <div align="center">
@@ -28,17 +28,3 @@ I'm currently pursuing a **B.S. in Computer Science** at **UC San Diego**. I enj
 ![Metrics](./metrics.svg)
  
 </div>
-<!--
-**JamesVillanueva-Dev/JamesVillanueva-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
