@@ -1,3 +1,5 @@
+![Welcome](./welcome.svg)
+
 ## Hi there, I'm James 👋
 
 I am a UC San Diego Computer Science Student and currently pursuing a Bachelors. 
